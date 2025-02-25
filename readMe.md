@@ -23,9 +23,6 @@ This is a simple TCP-based chat client written in Go (Golang). The client allows
    ```bash
    go build .
 
-3. Build the application:
-   ```bash
-   go build .
 
 
 
